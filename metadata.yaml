@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33468'
     url: http://www.gutenberg.org/2009/agents/33468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31755#Political-Application
 gutenberg_issued: '2010-03-24'
 gutenberg_type: Text
 identifiers:
